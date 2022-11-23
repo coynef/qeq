@@ -1,4 +1,4 @@
-# github.com/mitchallen/go-lib
+# github.com/coynef/go-lib
 
 ## Usage
 
